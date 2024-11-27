@@ -1,0 +1,3 @@
+﻿  Juego_Domino.cpp
+C:\Users\Usuario\Documents\Curso Programación\Módulo 2 Programación Estructurada\Proyecto Final\Domino\Juego_Domino\funciones_Domino.h(109,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Juego_Domino.vcxproj -> C:\Users\Usuario\Documents\Curso Programación\Módulo 2 Programación Estructurada\Proyecto Final\Domino\x64\Debug\Juego_Domino.exe
